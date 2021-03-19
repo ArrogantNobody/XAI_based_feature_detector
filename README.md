@@ -9,11 +9,8 @@ https://github.com/cszn/USRNet
 ```
 
 **Here is our pipeline:**
-
-![image-20210318193130180](C:\Users\Gingi\AppData\Roaming\Typora\typora-user-images\image-20210318193130180.png)
-
- 
+![image](https://user-images.githubusercontent.com/68981858/111719238-14d90f80-8821-11eb-8d20-3d1455b6ffa8.png)
 
 Comparison with SIFT, SURF, FAST and ORB:
+![image](https://user-images.githubusercontent.com/68981858/111719253-1d314a80-8821-11eb-98da-e4c41f4664fa.png)
 
-![image-20210318193239841](C:\Users\Gingi\AppData\Roaming\Typora\typora-user-images\image-20210318193239841.png)
